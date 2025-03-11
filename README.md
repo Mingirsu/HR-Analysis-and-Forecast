@@ -26,21 +26,8 @@ This project aims to develop a machine learning model to predict employee attrit
 #### **Limitations & Next Steps**  
 - **Real-World Generalization**: The dataset is designed for model training, meaning the high performance is unlikely to translate into real-world scenarios. Future improvements include testing on real company HR data.  
 - **Feature Engineering**: Additional feature selection and engineering can enhance model robustness.  
-- **Model Deployment**: Future iterations may include deployment as a web-based HR analytics tool.  
-
-#### **How to Use**  
-1. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-2. Run data preprocessing:  
-   ```bash
-   python src/data_preprocessing.py
-   ```  
-3. Train and evaluate the model:  
-   ```bash
-   python src/train_model.py
-   ```  
+- **Model Deployment**: Future iterations may include deployment as a web-based HR analytics tool.
+  
 
 #### **Conclusion**  
 This project provides a strong foundation for **HR analytics and employee attrition prediction**. However, real-world application requires a more balanced dataset to avoid overfitting. Future enhancements will focus on refining feature selection, generalization strategies, and potential integration into HR decision-making systems. 🚀
