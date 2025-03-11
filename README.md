@@ -16,13 +16,6 @@ This project aims to develop a machine learning model to predict employee attrit
 - **Matplotlib & Seaborn**: For visualizing data distribution and insights.  
 - **Jupyter Notebook**: To organize and document model experiments.  
 
-#### **Project Structure**  
-- **/notebooks/**: Jupyter notebooks containing EDA, model training, and evaluation.  
-- **/src/**: Python scripts for data preprocessing, feature engineering, and model training.  
-- **/data/**: Raw and processed data (not uploaded to GitHub due to size constraints).  
-- **/reports/**: Documentation and analysis results.  
-- **requirements.txt**: Dependencies needed to run the project.  
-
 #### **Limitations & Next Steps**  
 - **Real-World Generalization**: The dataset is designed for model training, meaning the high performance is unlikely to translate into real-world scenarios. Future improvements include testing on real company HR data.  
 - **Feature Engineering**: Additional feature selection and engineering can enhance model robustness.  
